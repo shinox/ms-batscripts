@@ -19,9 +19,9 @@ rem ############################################
 :execute
 
 rem Ask User if he knows who He/She is.
-echo Please Type Your Biohealth Username:
+echo Please Type Your Username:
 set /p "user=Username: "
-echo Please Type The Biohealth User password:
+echo Please Type The User password:
 set /p "password=Password: "
 
 rem convert lists to arrays, Answer to question why Windows always needs more resources.
